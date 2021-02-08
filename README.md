@@ -1,5 +1,13 @@
-# CIS460/560
-## Mini Minecraft Milestone 1
+# Mini Minecraft
+## CIS460/560 Fall 2020
+
+Taught by Prof. Mally
+
+### Video Demos
+
+- [Milestone 1]()
+- [Milestone 2]()
+- [Final Presentation]()
 
 ### Sheil Sarda
 
