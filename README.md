@@ -3,11 +3,11 @@
 
 Taught by Prof. Mally
 
-### Video Demos
+## Video Demos
 
-- [Milestone 1]()
-- [Milestone 2]()
-- [Final Presentation]()
+- [Final Presentation](https://www.youtube.com/watch?v=jzspsZzL_1Y)
+- [Milestone 2](https://www.youtube.com/watch?v=5pjV1mCaahQ)
+- [Milestone 1](https://www.youtube.com/watch?v=3B6z0Yrp_4k)
 
 ### Sheil Sarda
 
